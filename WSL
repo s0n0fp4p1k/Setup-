@@ -1,0 +1,3 @@
+wsl -l -v
+wsl --unregister Ubuntu
+wsl --install
