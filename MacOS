@@ -3,3 +3,5 @@
 echo >> /Users/cr34t0rs/.zprofile
 echo 'eval "$(/usr/local/bin/brew shellenv)"' >> /Users/cr34t0rs/.zprofile
 eval "$(/usr/local/bin/brew shellenv)"
+
+### Install iterm2
