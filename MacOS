@@ -1,2 +1,5 @@
+### Install brew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-
+echo >> /Users/cr34t0rs/.zprofile
+echo 'eval "$(/usr/local/bin/brew shellenv)"' >> /Users/cr34t0rs/.zprofile
+eval "$(/usr/local/bin/brew shellenv)"
